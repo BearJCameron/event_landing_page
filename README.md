@@ -1,7 +1,6 @@
-Some stuff in here
+setting up the take home challenge for day 06
 
-# Bootstrap Boilerplate
+# Take Home Day 06
 
 **Author** Bear J Cameron
 
-> "Did I do that?" - Steve Urkle
